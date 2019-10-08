@@ -10,4 +10,4 @@ Before loading next tracker file reset outs older than expected job time
 virtually all jobs should succeed so outs are exepcted to be able to reach 0
 
 TODO: Add October 2019 incrementally  
-~~TODO: refresh against API~~ Last run Mon 07 Oct 2019 02:06:08 AM UTC
+~~TODO: refresh against API~~ Last run Tue 08 Oct 2019 09:53:05 PM UTC
